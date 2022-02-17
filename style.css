@@ -4,24 +4,6 @@
     --primary-color: #899689;
 }
 
-@media only screen and (max-device-width: 1024px) {
-.main web page box {
-width: 100%; (full width)
-}
-.profile box {
-width: 100%; (full width)
-float: left; (right-edge wrap)
-}
-.article box {
-width: 100%; (full width)
-float: left; (right-edge wrap)
-}
-.sidebar box {
-width: 100%; (full width)
-float: left; (right-edge wrap)
-}
-}
-
 *{
     margin: 0;
     padding: 0;
